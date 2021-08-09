@@ -20,5 +20,7 @@ email：angle012@126.com
 qq: 732299305    
 <p> 
 
+<!--
 {% include comments.html %}
+-->
 
