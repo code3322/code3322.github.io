@@ -2,16 +2,16 @@
 layout: page
 title: 技术支持 
 ---
-&ensp;&ensp;不精通前端语言，php、asp、jsp、javascript、html、css，也不精通c、c++、mfc等大多后端开发语言，更不精通win、linux、unix系统。
+* php、asp、jsp、javascript、html、css 不懂
+* c、c++、java、python 也不懂
+* win、linux、unix 更不懂
+* bat、bashshell、powershell 不知道
+* burp、awvs、nmap、checkmarx、dfkd、jkeifd、enkdfek、这些东西一概不知!
 
-&ensp;&ensp;只知道用一键日卫星这种上古神器，burp、awvs、nmap、checkmarx、dfkd、jkeifd、enkdfek、这些东西一概不知!
-
-请不要把学到的知识干非法的事，切记，切记！
-
+懂什么呢: 一键日卫星!
+**请不要把学到的知识干非法的事，切记，切记!**
 
 
-<br/>
-<br/>
 <br/>
 <h3> 赏你一瓶水喝！ </h3> 
 
@@ -19,15 +19,14 @@ title: 技术支持
 
 ![](/images/payimg/weipayimg.jpg)
 
-
-<h3> 如何联系到我 </h3>
-
 <br/>
+<h3> 联系我 </h3>
 <p> 
 email：****@****.com      
 <p> 
 QQ群: ********    
 <p> 
 
+<br/>
 {% include comments.html %}
 
