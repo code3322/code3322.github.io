@@ -14,10 +14,16 @@ title: 技术支持
 
 
 <br/>
-<h3> 赏你一瓶水喝！ </h3> 
+<h3> 赏你一瓶水喝！ </h3>
+
+---
+<font color=red size=5>支付宝</font>
 
 ![](/images/payimg/alipayimg.jpg)
 
+
+---
+<font color=red size=5>微信</font>
 ![](/images/payimg/weipayimg.jpg)
 
 <br/>
