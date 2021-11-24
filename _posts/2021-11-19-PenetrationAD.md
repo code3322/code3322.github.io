@@ -19,7 +19,7 @@ tag: 内网渗透
 
 
 给张逻辑图:
-![](/images/posts/AD_images/ad.jpg)
+![](/images/posts/ad_images/ad.jpg)
 
 
 
@@ -32,7 +32,7 @@ tag: 内网渗透
 
 先放图(网上复制的, 但个人觉得比较通俗易懂):
 
-![](/images/posts/AD_images/tickets.jpg)
+![](/images/posts/ad_images/tickets.jpg)
 
 
 &emsp;&emsp;上图你可以理解左边就是办公网的pc、笔记本等，右边就是AD，它有很多模块，此Authenticatio Server、ticket granting server是它的认证模块，server是它管理的服务器或服务，这里我们个人与火车站系统来类比，大概分为三个阶段：
