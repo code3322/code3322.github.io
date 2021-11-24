@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "安全学习课程大纲"
+title: "安全学习课程"
 date: "2021-11-17"
 description: "Study"
 tag: 茶余饭后
