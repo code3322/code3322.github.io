@@ -19,7 +19,8 @@ tag: 内网渗透
 
 
 给张逻辑图:
-![](./images/posts/AD_images/ad.jpg)
+![](/images/posts/AD_images/ad.jpg)
+
 
 
 &emsp;
@@ -31,7 +32,8 @@ tag: 内网渗透
 
 先放图(网上复制的, 但个人觉得比较通俗易懂):
 
-![](./images/posts/AD_images/tickets.jpg)
+![](/images/posts/AD_images/tickets.jpg)
+
 
 &emsp;&emsp;上图你可以理解左边就是办公网的pc、笔记本等，右边就是AD，它有很多模块，此Authenticatio Server、ticket granting server是它的认证模块，server是它管理的服务器或服务，这里我们个人与火车站系统来类比，大概分为三个阶段：
 * 第一阶段：我要坐火车，我拿身份证给火车站(此为图中的authentication server)验证，火车站验证通过，给了张临时凭证(TGT)给你去另一个窗口办理(Ticket granting server)
