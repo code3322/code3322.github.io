@@ -18,7 +18,12 @@ tag: 安全课程
 
 &emsp;
 ### 下载地址
-
+链接：https://www.aliyundrive.com/s/9fw5JhZq3bd
 
 &emsp;
 ### 参考
+参考书籍(为了避免法律问题，只能是能分享的尽量分享下载地址): 
+* Linux命令行完全技术宝典
+
+* Windows命令汇总.pdf  
+    * 链接：https://www.aliyundrive.com/s/8wAjb1VQTLs
